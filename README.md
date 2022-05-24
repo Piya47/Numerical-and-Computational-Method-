@@ -1,4 +1,4 @@
-# Numerical and Computational Method
+# SIF2007: Numerical and Computational Method
 
 1. Scientific Computing
 2. Curve Fitting
